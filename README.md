@@ -5,6 +5,7 @@ small ruby script uses redis db for hash data
 
 How to use:
 > redis-server
+
 > ruby movies.rb
 
 ++++++++++Actions++++++++++
